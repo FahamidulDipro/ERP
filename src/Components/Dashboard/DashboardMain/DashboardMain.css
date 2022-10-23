@@ -1,0 +1,21 @@
+.link_style_light {
+  text-decoration: none;
+  color: #003566;
+}
+.link_style_dark {
+  text-decoration: none;
+  color: white;
+}
+
+#leftNavDark::-webkit-scrollbar {
+  height: 100%;
+  width: 5px;
+}
+
+#leftNavDark::-webkit-scrollbar-track {
+  background: transparent;
+  height: 100%;
+}
+#leftNavDark::-webkit-scrollbar-thumb {
+  background: crimson;
+}

@@ -1,0 +1,23 @@
+.liabilities_amount {
+  position: absolute;
+  left: -520%;
+  top: -22%;
+}
+.arrow {
+  position: absolute;
+  top: 10px;
+}
+.liabilities,
+.asset {
+  position: relative;
+}
+
+.asset_amount {
+  position: absolute;
+  left: -570%;
+  top: -7%;
+}
+.arrow_asset {
+  position: absolute;
+  top: 10px;
+}

@@ -1,0 +1,15 @@
+.table_body tr:hover {
+  background: #e0ecfb;
+}
+.table_body_dark {
+  color: white;
+  background: #313341;
+}
+.table_body_dark tr:hover {
+  background: #344964;
+}
+a {
+  text-decoration: none;
+  color: #003566;
+  font-weight: 600;
+}

@@ -1,0 +1,351 @@
+.queues-detail-parent {
+  padding: 0px 35px !important;
+}
+
+.queues-detail h2 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 45px;
+  color: #000000;
+  margin: 0px;
+}
+
+.queues-detail h5 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 26px;
+  color: #003566;
+  margin: 0px;
+}
+
+.queues-detail span {
+  font-family: "Poppins";
+  font-weight: 500;
+}
+
+.queues-detail button {
+  font-family: "Poppins";
+  border: none;
+  background: #003566;
+  color: #fff;
+  font-size: 16px;
+  width: 125px;
+  height: 33px;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  cursor: pointer;
+}
+
+.queues-detail-bookingInfo span {
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  color: #003566;
+  padding: 6px 8px;
+  display: block;
+}
+
+.queues-detail-bookingInfo h5 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 28px;
+  color: #272323;
+  font-weight: 400;
+  margin: 0px;
+}
+
+.queue-detail-FlightInfo span {
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 18px;
+  color: #003566;
+  background: #d1e9ff;
+  padding: 8px 8px;
+  display: block;
+}
+
+.queue-detail-FlightInfo h5 {
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 18px;
+  color: #003566;
+  text-decoration: underline;
+}
+
+.queue-detail-fareInfo span {
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 13px;
+  /* line-height: 18px; */
+  color: #003566;
+  background: #d1e9ff;
+  padding: 6px 8px;
+  display: block;
+  border-radius: 2px;
+}
+
+.upcharge-btn button {
+  border: none;
+  background-color: transparent;
+  width: 100%;
+  height: 35px;
+  color: #fff;
+  background-color: #003566;
+  cursor: pointer;
+  padding: 0px 5px;
+  font-size: 15px;
+}
+
+.upcharge-btn button:hover {
+  background-color: #003566;
+}
+
+.queue-detail-fareInfo table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.queue-detail-fareInfo table th {
+  font-family: "Poppins";
+  background: #003566;
+  border: none !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 11px;
+  color: #fff;
+}
+
+.queue-detail-fareInfo table td,
+th {
+  text-align: left;
+  padding: 8px;
+  border: none !important;
+  border-bottom: 1px solid #dedede !important;
+  font-size: 12px;
+  text-align: center;
+}
+
+.queue-detail-passenger-detail span {
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  color: #003566;
+  background: #d1e9ff;
+  padding: 6px 8px;
+  display: block;
+  border-radius: 2px;
+}
+
+.queue-detail-passenger-detail h5 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 25px;
+  color: #767676;
+}
+.queue-detail-passenger-detail h6 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 0px;
+  color: #003566;
+  margin: 0px;
+  color: #003566;
+}
+.upcahrge-price-box h5 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 35px;
+  color: #595757;
+}
+
+.upcahrge-price-box h6 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 25px;
+  color: #003566;
+}
+
+.upcahrge-price-box input {
+  border: none;
+  color: #fff !important;
+  background-color: #595757;
+  padding: 3px 5px;
+  width: 100%;
+}
+
+.upcahrge-price-box input::placeholder {
+  color: #fff;
+  opacity: 1; /* Firefox */
+}
+
+.upcahrge-price-box button {
+  border: none;
+  background-color: #003566;
+  padding: 5px 25px;
+  color: #fff;
+}
+
+.queues-detail-pdf-box {
+  box-shadow: 0px 0px 7px #d1e9ff;
+  padding: 10px 0px;
+}
+
+.queues-detail-pdf-box h4 {
+  margin: 0px 15px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 30px;
+  color: #dc143c;
+}
+.queues-detail-pdf-box hr {
+  width: 89%;
+  margin: auto;
+  margin: 10px 0px;
+  margin: auto;
+  margin-top: 9px;
+  margin-bottom: 7px;
+}
+.queues-detail-pdf-box p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 32px;
+  color: #003566;
+}
+
+.queues-detail-calcel-btn button {
+  margin-top: 15px;
+  width: 100%;
+  border: 1px solid #dc143c;
+  background-color: transparent;
+  color: #dc143c;
+  height: 48px;
+  cursor: pointer;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.queues-detail-pdf-box .MuiAccordionSummary-root {
+  min-height: 35px !important;
+}
+
+.queue-detail-mobile-box {
+  background: #d1e9ff;
+  padding: 20px 15px;
+}
+
+.queue-detail-mobile-box h6 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 30px;
+  color: #003566;
+}
+
+.queue-detail-mobile-box-result h6 {
+  color: #272323;
+}
+
+/*  radio button custom style start  here*/
+
+/* The container */
+.customRadio {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 15px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.radioLabel label {
+  color: #000000 !important;
+}
+
+/* Hide the browser's default radio button */
+.customRadio input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+/* Create a custom radio button */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  border: 1px solid #003566;
+}
+
+/* When the radio button is checked, add a blue background */
+.customRadio input:checked ~ .checkmark {
+  background-color: #fff;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.customRadio input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.customRadio .checkmark:after {
+  top: 2px;
+  left: 2px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: #003566;
+}
+
+/* radio button  custom style end here */
+
+@media (min-width: 320px) and (max-width: 428px) {
+  .queues-detail-parent {
+    padding: 0px 17px !important;
+  }
+  .queues-detail h2 {
+    font-size: 20px;
+    line-height: 35px;
+    color: #000000;
+    padding-top: 43px;
+  }
+}

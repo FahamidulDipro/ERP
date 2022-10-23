@@ -1,0 +1,41 @@
+.ticketBtn1 button {
+  cursor: pointer;
+  background-color: #003566;
+  color: #fff;
+  font-size: 12px;
+  border: none;
+  height: 25px;
+  padding: 0px 18px;
+}
+
+.airlinePnr1 label {
+  color: #000 !important;
+  font-size: 15px;
+  font-family: "poppins";
+  font-weight: 400;
+}
+.airlinePnr1 input {
+  width: 35%;
+  border: none;
+  border: 1px solid #70a5d8;
+  border-radius: 2px;
+  height: 28px;
+  margin-left: 10px;
+  color: #000 !important;
+}
+
+.airlinePnr1 input:focus {
+  outline: none !important;
+}
+
+.saveBtn1 {
+  text-align: right;
+}
+.saveBtn1 button {
+  cursor: pointer;
+  border: none;
+  padding: 6px 20px;
+  background-color: #70a5d8;
+  color: #fff;
+  border-radius: 2px;
+}

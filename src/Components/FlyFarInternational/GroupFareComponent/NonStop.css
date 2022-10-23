@@ -1,0 +1,11 @@
+*:focus {
+    outline: none !important;
+}
+
+.departureSelect {
+    outline: none !important;
+    border-radius: 0;
+    border: 1px solid #003566;
+    width: 100%;
+    font-size: 12px;
+}

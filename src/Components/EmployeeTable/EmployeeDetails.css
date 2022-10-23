@@ -1,0 +1,41 @@
+.accordion_light {
+  background: #e0ecfb;
+
+  padding: 30px 50px 120px 50px;
+}
+
+.accordion_dark {
+  background: #313341;
+  padding: 30px 20px 120px 50px;
+  border-bottom: 1px solid white !important;
+}
+.input_light {
+  border: 1px solid #003566 !important;
+  padding: "0";
+}
+.input_light input[type="text"] {
+  color: #003566;
+  font-size: 12px;
+}
+
+.input_dark {
+  border: 1px solid white !important;
+  padding: "0";
+  background-color: #313341;
+}
+.input_dark input[type="text"] {
+  color: white;
+  font-size: 12px;
+}
+
+label {
+  color: rgb(149, 144, 144) !important;
+}
+
+th,
+td {
+  border: 0 !important;
+}
+tbody {
+  border-bottom: 1px solid white;
+}

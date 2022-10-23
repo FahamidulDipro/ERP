@@ -1,0 +1,8 @@
+.notFound_div_light {
+  background-color: white;
+  height: 100vh;
+}
+.notFound_div_dark {
+  background-color: gray;
+  height: 100vh;
+}

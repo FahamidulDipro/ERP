@@ -1,0 +1,14 @@
+
+.employees_div_light {
+  background-color: white;
+  height: 100vh;
+}
+.employees_div_dark {
+  background-color: gray;
+  height: 100vh;
+}
+
+.PrivateTabIndicator-colorSecondary-3 {
+  background-color: transparent !important;
+}
+

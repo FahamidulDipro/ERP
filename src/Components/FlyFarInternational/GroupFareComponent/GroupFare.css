@@ -1,0 +1,31 @@
+.plane{
+    position:relative;
+    animation: planeTwoStop 5s infinite;
+}
+ 
+  @keyframes planeTwoStop {
+    0%   {left: 0px;}
+    25%  {left: 70px;}
+    75%  {left: 130px;}
+    100% {left: 200px;}
+  }
+
+  .oneStopPlane{
+    position:relative;
+    animation: planeOneStop 5s infinite;
+  }
+  @keyframes planeOneStop {
+    0%   {left: 0px;}
+    50%  {left: 100px;}
+    100% {left: 200px;}
+  }
+
+  .noStopPlane{
+    position:relative;
+    animation: planeNoStop 5s infinite;
+  }
+  @keyframes planeNoStop {
+    0%   {left: 0px;}
+    20% {left: 200px;}
+  }
+

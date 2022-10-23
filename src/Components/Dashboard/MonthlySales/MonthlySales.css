@@ -1,0 +1,8 @@
+.monthly_graphs {
+  position: relative;
+}
+.down_icon {
+  position: absolute;
+  top: 90%;
+  right: 40%;
+}

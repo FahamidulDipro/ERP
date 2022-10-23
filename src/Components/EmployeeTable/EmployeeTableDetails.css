@@ -1,0 +1,10 @@
+.t_body:hover {
+  background: #e0ecfb;
+}
+.t_body_dark {
+  color: white;
+  background: #313341;
+}
+.t_body_dark:hover {
+  background: #344964;
+}

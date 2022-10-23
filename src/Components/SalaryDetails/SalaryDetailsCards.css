@@ -1,0 +1,18 @@
+.selected {
+  background: #70a5d8 !important;
+  margin-top: 30px !important;
+  color: white !important;
+  width: 15%;
+
+  border-radius: 0 !important;
+  border: 1px solid #70a5d8;
+}
+.not_selected {
+  background: white !important;
+  margin-top: 30px !important;
+  color: #70a5d8 !important;
+  width: 15%;
+
+  border-radius: 0 !important;
+  border: 1px solid #70a5d8 !important;
+}

@@ -1,0 +1,27 @@
+/* For Active Routes */
+.booking-link {
+  color: #003566;
+  border: 1px solid #003566;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+  margin: 10px 10px 5px 0;
+  transition: 0.3s ease;
+  font-weight: normal;
+}
+
+.active-booking-link {
+  color: white;
+  padding: 5px 10px 5px 10px;
+  border: 1px solid #70a5d8;
+  background-color: #003566;
+  text-decoration: none;
+  font-weight: normal;
+  margin: 10px 10px 5px 0;
+}
+th,
+td {
+  border: 0 !important;
+}
+tbody {
+  border-bottom: 1px solid white;
+}

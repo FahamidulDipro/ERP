@@ -1,0 +1,46 @@
+.searchHistoryTable table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 5px;
+}
+
+.searchHistoryTable table tr th {
+  background-color: #70a5d8;
+  color: #fff;
+  padding: 6px 0px;
+  font-weight: 300;
+  font-size: 12px;
+  border: 1px solid #dedede !important;
+}
+
+.searchHistoryTable table td,
+th {
+  text-align: left;
+  padding: 8px;
+  text-align: center;
+  border: 1px solid #dedede !important;
+}
+
+.searchHistoryTable table td {
+  color: #252733;
+  font-size: 12px;
+}
+
+.searchHistoryTable table tr:hover {
+  background-color: #e0ecfb !important;
+}
+
+.searchList1 input {
+  width: 35%;
+  border: none;
+  border: 1px solid #70a5d8;
+  border-radius: 2px;
+  height: 34px;
+  color: #000 !important;
+  padding: 0px 10px !important;
+}
+
+.searchList1 input:focus {
+  outline: none !important;
+}
